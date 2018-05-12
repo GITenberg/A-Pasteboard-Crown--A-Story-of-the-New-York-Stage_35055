@@ -1,0 +1,40 @@
+_repo: A-Pasteboard-Crown--A-Story-of-the-New-York-Stage_35055
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Christy, Howard Chandler
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '4540'
+    url: http://www.gutenberg.org/2009/agents/4540
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Chandler_Christy
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, Clara
+    aliases:
+    - Morrison, Clara
+    - Harriott, Clara Morris
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '4972'
+    url: http://www.gutenberg.org/2009/agents/4972
+    wikipedia: http://en.wikipedia.org/wiki/Clara_Morris
+description: ''
+gutenberg_issued: '2011-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Actresses -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Theater -- Fiction'
+title: 'A Pasteboard Crown: A Story of the New York Stage'
+url: http://www.gutenberg.org/ebooks/35055
