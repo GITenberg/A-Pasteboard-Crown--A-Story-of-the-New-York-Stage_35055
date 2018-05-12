@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4972
     wikipedia: http://en.wikipedia.org/wiki/Clara_Morris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35055#A-Pasteboard-Crown--A-Story-of-the-New-York-Stage
 gutenberg_issued: '2011-01-24'
 gutenberg_type: Text
 identifiers:
